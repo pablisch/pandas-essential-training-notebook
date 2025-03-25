@@ -1,5 +1,5 @@
 # Pandas Essential Training (2024 Revision)
-This is the repository for the LinkedIn Learning course `Pandas Essential Training (2023 Revision)`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `Pandas Essential Training (2024 Revision)`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
@@ -10,9 +10,9 @@ This is the repository for the LinkedIn Learning course `Pandas Essential Traini
 
 ### Instructor
 
-Jonathan Fernandes
+[Jonathan Fernandes](https://www.linkedin.com/in/jonathanafernandes)
 
-Consultant focusing on data science, AI, and big data
+Expert in Generative AI and Large Language Models
 
                             
 
